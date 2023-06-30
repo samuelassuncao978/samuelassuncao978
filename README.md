@@ -1,3 +1,6 @@
+                                                                                   Hi there 👋, I'm Samuel Assuncao
+🗝️ About Me
+
 - 👋 Hi, I’m @samuelassuncao978
 - 💼 Always looking for a new better job
 - 👀 I am a Full Stack developer with 9 years of experience in web development with top frameworks like PHP, Python, Laravel, Symfony 4, JavaScript, Nuxt.js, Angular, Vue.js, React Js, and HTML5/CSS3/Tailwind CSS, 
