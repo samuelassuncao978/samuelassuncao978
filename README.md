@@ -1,4 +1,5 @@
-                                                                                   Hi there 👋, I'm Samuel Assuncao
+Hi there 👋, I'm Samuel Assuncao
+
 🗝️ About Me
 
 - 👋 Hi, I’m @samuelassuncao978
